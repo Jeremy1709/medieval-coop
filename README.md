@@ -1,2 +1,2 @@
 # medieval-coop
-Scripts, and images from my Unity project
+Scripts, and samples of my unity project.
